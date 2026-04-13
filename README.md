@@ -29,7 +29,7 @@ Unlike general applications, this system is specifically tailored for academic u
 ## 📍 Phase 1 - Project Proposal and Planning  
 
 ▸ **Kanban Board**  
-
+https://github.com/users/yangkahhin/projects/1/views/1
 
 ▸ **Report**  
 
