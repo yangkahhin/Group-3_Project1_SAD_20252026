@@ -18,10 +18,10 @@ Unlike general applications, this system is specifically tailored for academic u
 | Name               | Matric Number |
 |--------------------|--------------|
 | YANG KAH HIN       | A25CS0167    |
-| HEE HUI EN         | A25CS0065    |
-| ONG SHI YUN        | A25CS0338    |
-| GAN YU XUAN        | A25CS0226    |
 | CHEN XIN YAN       | A25CS0049    |
+| HEE HUI EN         | A25CS0065    |
+| GAN YU XUAN        | A25CS0226    |
+| ONG SHI YUN        | A25CS0338    |
 | BONG JING RU       | A25CS5040    |
 
 ---
