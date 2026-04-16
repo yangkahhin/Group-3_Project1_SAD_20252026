@@ -2,10 +2,10 @@
 Y1S2 Course Project SECD2613-04 System Analysis &amp; Design 
 ---
 
-## 🧩 CAMPUSGIS  
+## 🧩 C-GIS  
 
 ### ❖ Description  
-The CAMPUSGIS is a user-centered application designed to provide university students with integrated, real-time, and location-based information within the campus environment.  
+The C-GIS is a user-centered application designed to provide university students with integrated, real-time, and location-based information within the campus environment.  
 
 The system allows students to access essential campus data such as shuttle bus schedules, weather conditions, facility locations, and shop availability through an interactive map interface. In addition, it includes a student reporting and feedback feature, enabling users to contribute real-time updates and share information about campus conditions.  
 
